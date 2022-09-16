@@ -1,7 +1,3 @@
-![https://8pxl.tumblr.com/](https://64.media.tumblr.com/fe7308d4fd6d850331508c3f81cbd5c1/tumblr_oxxsvyUgrm1tlgv32o1_500.gifv "https://8pxl.tumblr.com/")
-<br/>
-
-
 
 <!--
 **rfrenchy/rfrenchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
