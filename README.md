@@ -1,4 +1,4 @@
-<h2><a href="mailto:ryanfrench@outlook.com">ryanfrench@outlook.com</a></h2>
+<h2>Ryan French - <a href="mailto:ryanfrench@outlook.com">ryanfrench@outlook.com</a></h2>
 
 <table>
     <tr>
