@@ -8,9 +8,9 @@
         <td>Energy, Governments, Gambling, Sports</td>
     </tr>
     <tr>
-        <th>Technologies</th>
+        <th>Technologies Used</th>
         <td>React, Kubernetes, Kafka, Go, Postgres, Docker, TypeScript, Terraform, Azure, Cypress, ASP.NET, Angular 8+,
-AngularJS, AWS, JavaScript, .NET Core, SQL, C#, Backbone, Oracle</td>
+AngularJS, AWS, JavaScript, .NET Core, SQL, C#, Backbone, Oracle, RabbitMQ</td>
     </tr>
 </table>
 
