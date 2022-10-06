@@ -1,4 +1,7 @@
 
+[CV](https://storage.googleapis.com/otta-uploads/candidate-cv/qPqbduASBsE2pPtsSQLN8cM2BI-gAGGJ9o0U1RfsBpU.pdf) 
+
+
 <!--
 **rfrenchy/rfrenchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
