@@ -7,7 +7,7 @@
     </tr>
     <tr>
         <th>Experience</th>
-        <td>Energy, Governments, Gambling, Sports, Manufacturing</td>
+        <td>Energy, Government, Gambling, Sports, Manufacturing</td>
     </tr>
     <tr>
         <th>Technologies Used</th>
