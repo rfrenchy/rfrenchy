@@ -1,4 +1,4 @@
-<header style="display: flex;"><h1 style="margin-right: 16px;">Ryan French</h2><h2><a href="mailto:ryanfrench@outlook.com">ryanfrench@outlook.com</a></h2></header>
+<h2>Ryan French</h2><h3><a href="mailto:ryanfrench@outlook.com">ryanfrench@outlook.com</a></h3>
 
 <table>
     <tr>
