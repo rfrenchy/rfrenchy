@@ -1,3 +1,5 @@
+<h1>Ryan French</h2>
+<h2><a href="mailto:ryanfrench@outlook.com">ryanfrench@outlook.com</a></h2>
 <table>
     <tr>
         <th>Current Role</th>
