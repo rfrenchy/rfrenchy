@@ -9,9 +9,13 @@
         <th>Experience</th>
         <td>Energy, Government, Gambling, Sports, Manufacturing</td>
     </tr>
+        <tr>
+        <th>Current Tech</th>
+        <td>Go, Kubernetes, Kafka, Postgres, React</td>
+    </tr>
     <tr>
         <th>Technologies Used</th>
-        <td>React, Kubernetes, Kafka, Go, Postgres, Docker, TypeScript, Terraform, Azure, Cypress, ASP.NET, Angular 8+,
+        <td>TypeScript, Terraform, Azure, Cypress, ASP.NET, Angular 8+, Docker, 
 AngularJS, AWS, JavaScript, .NET Core, SQL, C#, Backbone, Oracle, RabbitMQ</td>
     </tr>
 </table>
