@@ -2,10 +2,6 @@
 
 <table>
     <tr>
-        <th>Current Role</th>
-        <td>Software Developer at UW</td>
-    </tr>
-    <tr>
         <th>Experience</th>
         <td>Energy, Government, Gambling, Sports, Manufacturing</td>
     </tr>
